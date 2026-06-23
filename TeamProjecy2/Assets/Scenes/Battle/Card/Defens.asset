@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 115799c71862e2a4686212b399f850d1, type: 3}
+  m_Name: Defens
+  m_EditorClassIdentifier: 
+  cardName: Defens
+  cardImage: {fileID: 21300000, guid: 199d63c73d41a874ca9aeb75e625ea62, type: 3}
+  cardType: 1
+  upgradeType: 1
+  power: 5
+  levelUpPower: 5
+  evolveLevel: 5
+  evolveTo: {fileID: 11400000, guid: 16321fc873337e14eb8172c177a9d65c, type: 2}
+  useEffect: {fileID: 2353600328317590899, guid: ceec7516237b4104b94300043ca39784, type: 3}
+  effectTarget: 0
+  useSE: {fileID: 8300000, guid: 5dedb506ac619c04b86d51d2b7d544e6, type: 3}
+  description: "\u9632\u5FA1\u306E\u6570\u5024\u5206\u3060\u3051\u88AB\u5F3E\u3092\u6E1B\u3089\u3059"
+  enableDamageBoost: 0
+  damageBoostPercent: 0
+  enableTaunt: 0
+  tauntTurns: 1
+  levelUpTauntTurns: 1
+  attackCount: 0
+  poisonattack: 0
+  enableCounter: 0
+  enableHealBuff: 0
+  healBuffRate: 0

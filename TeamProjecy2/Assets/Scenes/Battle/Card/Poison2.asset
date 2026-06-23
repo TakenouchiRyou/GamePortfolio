@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 115799c71862e2a4686212b399f850d1, type: 3}
+  m_Name: Poison2
+  m_EditorClassIdentifier: 
+  cardName: "\u8D77\u7206"
+  cardImage: {fileID: 21300000, guid: 83dcba49bcd374247923d459da5b78dc, type: 3}
+  cardType: 3
+  upgradeType: 3
+  power: 3
+  levelUpPower: 2
+  evolveLevel: 5
+  evolveTo: {fileID: 0}
+  useEffect: {fileID: 5985634496115995770, guid: 463cf9f7af4680240898f6aeba3fe3e6, type: 3}
+  effectTarget: 1
+  useSE: {fileID: 8300000, guid: 436f96df77bd01c439ad7354c9744d7b, type: 3}
+  description: "\u84C4\u7A4D\u3057\u3066\u3044\u308B\u5206\u306E\u6BD2\u3092\u8D77\u7206\u3057\u3001\u6BD2\u3092\u4ED8\u4E0E"
+  enableDamageBoost: 0
+  damageBoostPercent: 0
+  enableTaunt: 0
+  tauntTurns: 1
+  levelUpTauntTurns: 1
+  attackCount: 1
+  poisonattack: 1
+  enableCounter: 0
+  enableHealBuff: 0
+  healBuffRate: 0

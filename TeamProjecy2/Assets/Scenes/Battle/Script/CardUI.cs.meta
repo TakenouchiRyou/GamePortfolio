@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8c70af57873c47e4fb3f88929a644a3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - attackEffectPrefab: {fileID: 7177991128484655659, guid: 59a35ab9f68edff40b6e5332bed330f5, type: 3}
+  - cardNameText: {instanceID: 0}
+  - powerText: {instanceID: 0}
+  - cardImage: {instanceID: 0}
+  - uiManager: {instanceID: 0}
+  - button: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - cardData: {instanceID: 0}
+  - deckManager: {instanceID: 0}
+  - targetEnemy: {instanceID: 0}
+  - turnManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

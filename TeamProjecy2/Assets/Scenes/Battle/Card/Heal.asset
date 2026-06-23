@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 115799c71862e2a4686212b399f850d1, type: 3}
+  m_Name: Heal
+  m_EditorClassIdentifier: 
+  cardName: Heal
+  cardImage: {fileID: 21300000, guid: 85d57c4cc371a8b40a8e623e037c4e02, type: 3}
+  cardType: 2
+  upgradeType: 2
+  power: 5
+  levelUpPower: 5
+  evolveLevel: 5
+  evolveTo: {fileID: 11400000, guid: 329d73ae7a2ecd04db5044184cca35f1, type: 2}
+  useEffect: {fileID: 9157105887693468085, guid: c4f829cb7dd4b864caf8832ec5b1ee55, type: 3}
+  effectTarget: 0
+  useSE: {fileID: 8300000, guid: e5919582f598d094ba67d4b9f52d7b71, type: 3}
+  description: "HP\u3092\u56DE\u5FA9\u3059\u308B\u3002\n"
+  enableDamageBoost: 0
+  damageBoostPercent: 0
+  enableTaunt: 0
+  tauntTurns: 1
+  levelUpTauntTurns: 1
+  attackCount: 1
+  poisonattack: 0
+  enableCounter: 0
+  enableHealBuff: 0
+  healBuffRate: 0
