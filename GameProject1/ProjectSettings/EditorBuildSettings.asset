@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/3-1 Singleton Pattern/FieldRight.unity
+    guid: b21520313b5e6604fa03167792e41709
+  - enabled: 0
+    path: Assets/3-1 Singleton Pattern/FieldLeft.unity
+    guid: c12bdb4981b6b9a4b9f45f6e22fcd847
+  - enabled: 1
+    path: "Assets/MainFile/\u30B9\u30BF\u30FC\u30C8\u753B\u9762.unity"
+    guid: e2ffd63f1fe05e94aa3bafd09672bd6d
+  - enabled: 1
+    path: "Assets/MainFile/\u30D7\u30ED\u30C8\u30BF\u30A4\u30D7.unity"
+    guid: 4f0da5e8fe1b49742ad5b85ca7d4e44e
+  - enabled: 1
+    path: "Assets/MainFile/\u30AF\u30EA\u30A2\u753B\u9762.unity"
+    guid: eca1381a7c13eb74a8a78acf99e260d0
+  - enabled: 1
+    path: Assets/MainFile/Gameover.unity
+    guid: bba2b1cddb3689f439534e658c1b3ea8
+  m_configObjects: {}
